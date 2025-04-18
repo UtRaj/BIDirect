@@ -1,0 +1,17 @@
+# BiDirect
+
+## Project Overview
+This explanation outlines the development approach and key considerations for building a ClickHouse data ingestion tool.
+
+## Architecture Design
+Design a scalable architecture with React frontend and Node.js backend. There should be efficient data handling and processing and do consider security and performance requirements.
+
+## Frontend 
+Generate responsive UI components code using React , where data preview with pagination is implemented , and design file upload interface and progress-tracker.
+
+## Backend Development
+Set up Express server with RESTful endpoints and implement secure file handling with efficient data processing pipeline and connection pooling. Implement caching.
+
+## Deployment
+Dockerize this using docker and create a dockerfile for clickhouse. Also , provide codes for implementing clickhouse compose.
+
